@@ -3,3 +3,6 @@
 ### Header 2
 
 ###### Header 3
+
+
+![Image of Yaktocat Bredo](https://octodex.github.com/images/yaktocat.png)
